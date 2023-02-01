@@ -1,5 +1,8 @@
 # rest-framework-registration
 A Django REST Framework with user registration and JWT authentication.
 
-# Work in Progress
-Nothing to see here (yet)!
+## User Registration
+Instructions on [how to add user registration](https://ctrlzblog.com/user-registration-with-django-rest-framework/) with Django REST framework.
+
+## JWT Authentication
+WIP
